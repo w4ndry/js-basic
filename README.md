@@ -1,1 +1,21 @@
-# js-basic
+-array.js
+-boolean.js
+-breakContinue.js
+-breakWithLabel.js
+-const.js
+-dowhile.js
+-dynamic.js
+-floatingPoint.js
+-forIn.js
+-for.js
+-fungsiAnonim.js
+-fungsiRekursif.js
+-if.js
+-integer.js
+-json.js
+-nested.js
+-readline.js
+-switch.js
+-throw.js
+-try.js
+-while.js
